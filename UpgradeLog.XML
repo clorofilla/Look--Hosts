@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Look@H">
+</Property><Property Name="Solution File" Value="C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Look@H.sln">
+</Property><Property Name="User Options File" Value="C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Look@H.suo">
+</Property><Property Name="Date" Value="lunedì 5 dicembre 2016">
+</Property><Property Name="Time" Value="12:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Look@H.sln" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Look@H.suo" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H.suo">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Look@H.vbproj" Description="Project file successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Look@H.vbproj">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Classes\File_manager.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Classes\File_manager.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Classes\Park_manager.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Classes\Park_manager.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Classes\Park_params.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Classes\Park_params.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Forms\Main.Designer.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Forms\Main.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Forms\Main.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Forms\Main.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Modules\Park_support.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Modules\Park_support.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\My Project\Application.myapp" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\My Project\Settings.settings" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Forms\Main.resx" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\Forms\Main.resx">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\My Project\Resources.resx" Description="File successfully backed up as C:\Users\ErmesaLina\Desktop\Git\Look@HPINGSHORT\Backup\Look@H\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Look@H" Source="Look@H\Look@H.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Look@H.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Look@H" Source="Look@H\Look@H.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Look@H.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Look@H.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Look@H" Source="Look@H\Look@H.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
