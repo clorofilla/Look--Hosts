@@ -4,10 +4,10 @@ Imports Microsoft.Win32
 
 
 
-Module Park_support
+Module My_support
 
-    Public my_park_manager As New Park_manager
-   
+    Public my_manager As New Manager
+
     Public Structure ipp_settings
 
         Public server_ip As String

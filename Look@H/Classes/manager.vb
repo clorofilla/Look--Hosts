@@ -1,6 +1,6 @@
 Option Explicit On
 
-Public Class Park_manager
+Public Class Manager
 
     Private my_dataset As New Data.DataSet
 
@@ -15,7 +15,7 @@ Public Class Park_manager
         Try
             my_dataset.ReadXml(Application.StartupPath.ToString + "\park_settings.xml")
             my_tmp = my_dataset.Tables("Parcheggi").Rows(0).Item("identificativi").ToString
-             If (my_tmp = "") Then Return False
+            If (my_tmp = "") Then Return False
             my_parks = Split(my_tmp, ",", , CompareMethod.Text)
             ReDim ip_settings(0 To UBound(my_parks))
             For i = 0 To UBound(my_parks)

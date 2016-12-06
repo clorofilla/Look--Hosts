@@ -4,7 +4,7 @@ Imports System.Threading
 
 Public Class Main
 
-    Private selected_park As String = ""
+    'Private selected_park As String = ""
 
     Private my_database As New lib_dbhandler.DataBase_Handling
     Private Sub frmMain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
@@ -32,9 +32,9 @@ Public Class Main
 
         TreeView1.Nodes.Clear()
         TreeView1.BeginUpdate()
-        my_park_manager.read_xml()
+        My_manager.read_xml()
 
-        my_dataset.ReadXml(Application.StartupPath.ToString + "\park_settings.xml")
+        my_dataset.ReadXml(Application.StartupPath.ToString + "\settings.xml")
         my_tmp = my_dataset.Tables("database").Rows(0).Item("db_connection_string").ToString
 
         If (my_database.is_connect() = False) Then

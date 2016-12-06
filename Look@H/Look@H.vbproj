@@ -80,14 +80,14 @@
     <Import Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\Park_manager.vb" />
+    <Compile Include="Classes\manager.vb" />
     <Compile Include="Forms\Main.Designer.vb">
       <DependentUpon>Main.vb</DependentUpon>
     </Compile>
     <Compile Include="Forms\Main.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Modules\Park_support.vb" />
+    <Compile Include="Modules\support.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -127,9 +127,7 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="NewFolder1\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>
