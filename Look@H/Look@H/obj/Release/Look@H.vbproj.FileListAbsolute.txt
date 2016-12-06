@@ -1,0 +1,20 @@
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\bin\Release\Look@H.exe
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\bin\Release\Look@H.pdb
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\bin\Release\Look@H.xml
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\obj\Release\Look_H.Main.resources
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\obj\Release\Look_H.Resources.resources
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.exe
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.xml
+C:\Documents and Settings\Ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.pdb
+D:\DATI\MONITORS\Look@H\Look@H\obj\Release\Look@H.exe
+D:\DATI\MONITORS\Look@H\Look@H\obj\Release\Look@H.xml
+D:\DATI\MONITORS\Look@H\Look@H\obj\Release\Look@H.pdb
+C:\Users\ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.exe
+C:\Users\ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.xml
+C:\Users\ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.pdb
+C:\Users\ermesa\Desktop\Look@H\Look@H\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ermesa\Desktop\Look@H\Look@H\obj\Release\Look_H.Main.resources
+C:\Users\ermesa\Desktop\Look@H\Look@H\obj\Release\Look_H.Resources.resources
+C:\Users\ermesa\Desktop\Look@H\Look@H\obj\Release\Look@H.vbproj.GenerateResource.Cache

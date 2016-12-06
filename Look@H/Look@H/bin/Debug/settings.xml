@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<settings>
+ <database> 
+  <db_connection_string>
+  driver={MySQL ODBC 5.1 Driver};server=127.0.0.1;uid=root;pwd=;database=ipcheck;
+  </db_connection_string>
+ </database>
+</settings>
